@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\user\desktop\hw7\p14\p14\source.c(27): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+c:\users\user\desktop\hw7\p14\p14\source.c(10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+  p14.vcxproj -> C:\Users\User\Desktop\HW7\p14\Debug\p14.exe
